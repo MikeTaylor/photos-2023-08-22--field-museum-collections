@@ -1,0 +1,1 @@
+_Brachiosaurus_ turned out to be the principal research focus of my visit, though I'd not particularly intended that. See particularly [the `ribs` directory](ribs). [`tourism`](tourism) contains photos that I tool in my role as a tourist, mostly without much scientific value.
