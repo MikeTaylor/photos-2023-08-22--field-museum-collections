@@ -4,3 +4,4 @@ Photographs taken on my visit to the Vertebrate Palaeontology collection at the 
 
 My thanks to Bill Simpson, collections manager, for arranging my visit at very short notice.
 
+See the `README.md` files in some of the individual directories for more information.
